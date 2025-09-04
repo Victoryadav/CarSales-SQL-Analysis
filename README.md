@@ -1,4 +1,4 @@
-h1 align="center">🚘 Car Sales Data Analysis using SQL</h1>
+<h1 align="center">🚘 Car Sales Data Analysis using SQL</h1>
 
 <p align="center">
   <b>Uncovering business insights from raw car sales data with the power of SQL</b>
